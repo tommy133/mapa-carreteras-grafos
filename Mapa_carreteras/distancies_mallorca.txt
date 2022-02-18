@@ -1,0 +1,9 @@
+Felanitx;Vilafranca de Bonany;15.2
+Manacor;Felanitx;14
+Sineu;Manacor;23.6
+Manacor;Palma;55.4
+Campos;Felanitx;12.5
+Campos;Palma;40.9
+Vilafranca de Bonany;Inca;26.6
+Inca;Sineu;14
+Vilafranca de Bonany;Sineu;12.5

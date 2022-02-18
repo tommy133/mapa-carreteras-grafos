@@ -1,0 +1,53 @@
+Alaro;45.72
+Alcudia;60.02
+Algaida;89.78
+Andratx;81.46
+Ariany;23.14
+Arta;139.79
+Banyalbufar;18.06
+Binissalem;29.77
+Buger;8.29
+Bunyola;84.7
+Calvia;145.02
+Campanet;34.65
+Campos;149.69
+Capdepera;54.92
+Consell;13.7
+Costitx;15.37
+Deia;15.21
+Escorca;139.39
+Esporles;35.29
+Estellencs;13.44
+Felanitx;169.79
+Fornalutx;19.49
+Inca;58.34
+Lloret de Vistalegre;17.44
+Lloseta;12.1
+Llubi;34.92
+Llucmajor;327.33
+Manacor;260.31
+Mancor de la Vall;19.89
+Maria de la Salut;30.52
+Marratxi;54.22
+Montuiri;41.13
+Muro;58.61
+Palma;208.63
+Petra;70.04
+Sa Pobla;48.59
+Pollenca;151.65
+Porreres;86.91
+Puigpunyent;42.31
+Ses Salines;39.12
+Sant Joan;38.54
+Sant Llorenc des Cardassar;82.08
+Santa Eugenia;20.25
+Santa Margalida;86.51
+Santa Maria del Cami;37.62
+Santanyi;124.86
+Selva;48.75
+Sencelles;52.86
+Sineu;47.74
+Soller;42.8
+Son Servera;42.56
+Valldemossa;42.93
+Vilafranca de Bonany;23.96
